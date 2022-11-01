@@ -1,0 +1,47 @@
+body {
+	text-align: left;
+	background-color: lightgrey;
+	margin: auto;
+}
+
+.container {
+	border:1px solid white;
+	border-radius: 15px;
+	width: 63%;
+	max-width: 600px;
+	overflow: auto;
+	background-color: white;
+	margin-left: 20%;
+	margin-top: 70px;
+
+
+}
+
+#content {
+	display: inline-block;
+	padding: 20px;
+}
+
+.press {
+	text-decoration:none;
+	border:1px solid darkgreen;
+	border-radius: 10px;
+	background: darkgreen;
+	color: white;
+	padding: 15px;
+	width: 100%;
+}
+pre {
+	font-family: sans-serif;
+	color: grey;
+	font-size: 15px;
+}
+
+p {
+	font-size: 30px;
+	color: darkgreen;
+	font-weight: bolder;
+}
+small {
+	font-size: 15px;
+}
